@@ -1,3 +1,7 @@
  this is practice file
 this is edited file for practice
+<<<<<<< HEAD
 changing from local system
+=======
+this is modification to learn conflicts
+>>>>>>> a3ff6c0f3e399aef608d3b80ab23f731866a6e62
